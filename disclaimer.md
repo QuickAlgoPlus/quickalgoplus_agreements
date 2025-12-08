@@ -1,1 +1,1 @@
-QuickAlgoPlus
+QuickAlgoPlus New Compnay
