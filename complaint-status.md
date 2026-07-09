@@ -20,7 +20,7 @@ Formats for investor complaints data to be disclosed monthly by Research Analyst
 | 1. | April 2026 | 00 | 00 | 00 | 00 |
 | 2. | May 2026 | 00 | 00 | 00 | 00 |
 | 3. | June 2026 | 00 | 00 | 00 | 00 |
-| 4. | July 2026 | 00 | 00 | 00 | 00 |
+| 4. | July 2026 | 01 | 01 | 01 | 01 |
 | 5. | August 2026 | 00 | 00 | 00 | 00 |
 | 6. | September 2026 | 00 | 00 | 00 | 00 |
 | 7. | October 2026 | 00 | 00 | 00 | 00 |
