@@ -22,10 +22,10 @@ opening_pending | 0
 # ---- Month | received | resolved ----
 April 2026 | 0 | 0
 May 2026 | 0 | 0
-June 2026 | 1 | 0
+June 2026 | 0 | 0
 July 2026 | 0 | 0
 August 2026 | 0 | 0
-September 2026 | 0 | 5
+September 2026 | 0 | 0
 October 2026 | 0 | 0
 November 2026 | 0 | 0
 December 2026 | 0 | 0
