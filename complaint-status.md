@@ -44,7 +44,7 @@ Formats for investor complaints data to be disclosed monthly by Research Analyst
 | 1. | 2023-2024 | 00 | 00 | 00 | 00 |
 | 2. | 2024-2025 | 00 | 02 | 02 | 00 |
 | 3. | 2025-2026 | 00 | 06 | 06 | 00 |
-|  | Grand Total | 00 | 08 | 08 | 00 |
+|  | Grand Total | 00 | 08 | 09998 | 00 |
 
 *Inclusive of complaints of previous years resolved in the current year.
 
