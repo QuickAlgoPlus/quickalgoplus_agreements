@@ -99,6 +99,66 @@ Quick AlgoPlus may terminate access if the user violates terms, payment fails, o
 
 Any refund upon termination shall be governed solely by the Company's Refund Policy and shall be subject to the client's eligibility and applicable deductions.
 
+____
+
+## Refund Policy
+
+### Important Note
+
+The refund calculations and examples below are **for illustration purposes only** and are provided solely to explain how the refund calculation works. They do **not** guarantee that the same refund amount will be approved.
+
+The actual refund amount, if any, will be determined **only** according to the Company's Refund Policy, the refund settings active at the time the refund request is submitted, the applicable subscription plan, the selected refund calculation method (Pro-rata or Fixed Percentage), and the client's eligibility. The Company reserves the sole right to approve, reject, or modify any refund request after verification.
+
+Refund requests can be submitted only while the eligible subscription/service is active and within the applicable refund request period. Once the eligible subscription or service has expired, no refund request will be accepted or processed for that subscription, regardless of the payment date or payment method.
+
+For subscriptions purchased in installments, refund eligibility is determined only for the installment or service period that is active and eligible under the Company's Refund Policy at the time of the request. Expired service periods are not eligible for refunds.
+
+The **Refund Request** button is available in the **Client Panel → Payments** section. Only eligible clients will be able to submit a refund request. Submission of a refund request does not guarantee approval.
+
+### Refund Calculation Example
+
+**Assume the client paid ₹15,148.50**
+
+- **Total Paid by Client:** ₹15,148.50
+- **Base Subscription Amount:** ₹12,586.00
+- **Payment Gateway Charge:** ₹251.72 *(Non-refundable)*
+- **GST (18%):** ₹2,310.78 *(Non-refundable)*
+
+____
+
+### Example 1 – Pro-rata Refund
+
+**Monthly Plan (30 Days)**
+
+- Used: **10 Days**
+- Unused: **20 Days**
+
+**Formula:** Refund = (Unused Days ÷ Total Days) × Base Subscription Amount
+
+**Calculation:** (20 ÷ 30) × ₹12,586.00 = **₹8,390.67**
+
+**Illustrative Refund Amount:** **₹8,390.67**
+
+*GST, Payment Gateway Charges, bank charges, taxes, and other applicable deductions are non-refundable.*
+
+____
+
+### Example 2 – Fixed 50% Refund
+
+**Formula:** Refund = 50% × ₹12,586.00
+
+**Calculation:** 50% × ₹12,586.00 = **₹6,293.00**
+
+**Illustrative Refund Amount:** **₹6,293.00**
+
+*GST, Payment Gateway Charges, bank charges, taxes, and other applicable deductions are non-refundable.*
+
+____
+
+### Disclaimer
+
+The examples above are provided for demonstration only. The actual refund amount may be higher, lower, or zero depending on the Company's Refund Policy, applicable deductions, subscription status, refund eligibility, and the settings in effect when the refund request is submitted. The Company's decision regarding refund eligibility and the final refundable amount shall be final and binding.
+
 Limited User License
 
 All content is protected under copyright and intellectual property laws and owned by QUICK ALGOPLUS PRIVATE LIMITED.
