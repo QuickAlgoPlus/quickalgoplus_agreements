@@ -5,7 +5,7 @@ IMPORTANT – PLEASE READ CAREFULLY
 Corporate Identity Names in Document:
 QUICK ALGOPLUS PRIVATE LIMITED, Quick AlgoPlus, quickalgoplus.in
 
-Risk Disclosure
+Risk Disclosure and refund policy
 
 The information provided by QUICK ALGOPLUS PRIVATE LIMITED (“Quick AlgoPlus”) through its website / software / applications / platform / portal is prepared without considering any specific investor’s financial objectives, situation, or needs. Quick AlgoPlus acts solely as a technology platform / software / application service provider as per the needs of users / clients.
 
