@@ -85,7 +85,7 @@ User Subscription Fees And Renewals
 
 (a) All subscriptions renew automatically unless canceled 48 hours prior via email to support@quickalgoplus.in
 .
-(b) All sales are final and subscription fees are non-refundable.
+(b) Subscription fees are governed solely by the Company's Refund Policy. Refunds, if any, are approved and processed only in accordance with the Refund Policy, the applicable subscription plan, the client's eligibility, and applicable deductions (GST, payment gateway charges, bank charges, and taxes are non-refundable).
 (c) User must pay all applicable fees and taxes.
 (d) User authorizes Quick AlgoPlus to debit their payment method until revoked via email.
 
@@ -97,7 +97,7 @@ Termination
 
 Quick AlgoPlus may terminate access if the user violates terms, payment fails, or authorization is withdrawn.
 
-No subscription amount will be refunded upon termination.
+Any refund upon termination shall be governed solely by the Company's Refund Policy and shall be subject to the client's eligibility and applicable deductions.
 
 Limited User License
 
