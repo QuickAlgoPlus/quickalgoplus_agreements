@@ -1,3 +1,6 @@
 .DS_Store
 **/.DS_Store
 node_modules/
+
+# Website source is kept local only, not tracked in this agreements repo
+WEBSITE/
