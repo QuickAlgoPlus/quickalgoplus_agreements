@@ -155,6 +155,16 @@ ____
 
 ____
 
+### Refund Processing Time
+
+Once a refund request is approved by the Company, the refund is initiated through the payment gateway to the original payment method used by the customer.
+
+The time taken for the refunded amount to reflect in the customer's account depends on the payment gateway, the customer's bank, card issuer, UPI provider, or other financial institutions involved in processing the transaction. In most cases, the refund is credited within 1 to 4 business days; however, it may take up to 7 business days, depending on the policies and processing timelines of the respective bank or payment service provider.
+
+Please note that after the Company has successfully initiated and approved the refund, the subsequent processing and credit of the refunded amount are handled by the payment gateway and the customer's financial institution. Therefore, the Company shall not be responsible for delays caused by the payment gateway, banks, card networks, UPI providers, or any other third-party payment processors.
+
+____
+
 ### Disclaimer
 
 The examples above are provided for demonstration only. The actual refund amount may be higher, lower, or zero depending on the Company's Refund Policy, applicable deductions, subscription status, refund eligibility, and the settings in effect when the refund request is submitted. The Company's decision regarding refund eligibility and the final refundable amount shall be final and binding.
