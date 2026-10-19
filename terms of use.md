@@ -2,6 +2,14 @@ AGREEMENT / DISCLAIMER / TERMS & CONDITIONS OF USE
 
 IMPORTANT – PLEASE READ CAREFULLY
 
+## Important Notice – Closure of Noida Branch Office (Notice dated 19 October 2026)
+
+**With effect from 19 October 2026, the Branch Office of QUICK ALGOPLUS PRIVATE LIMITED previously located at Suit No. 301, 3rd Floor, A-19, Sector 4, Noida, Gautam Buddha Nagar, Uttar Pradesh – 201301 stands permanently closed.** The Company no longer has any office, employee, representative, or agent operating from Noida.
+
+If you receive any call, SMS, WhatsApp message, email, or any other communication claiming to be from the "Noida Branch" of QUICK ALGOPLUS PRIVATE LIMITED, please ignore it. Do not share any personal, financial, or login details and do not make any payment in response to such communication. Such communications are not authorised by the Company, and the Company shall not be responsible or liable for any loss arising from them.
+
+All official communication from the Company is made only through the channels listed on this website, i.e. info@quickalgoplus.in and +91 83570 00107. Please report any suspicious communication to info@quickalgoplus.in.
+
 Corporate Identity Names in Document:
 QUICK ALGOPLUS PRIVATE LIMITED, quickalgoplus.in
 
@@ -113,43 +121,69 @@ Refund requests can be submitted only while the eligible subscription/service is
 
 For subscriptions purchased in installments, refund eligibility is determined only for the installment or service period that is active and eligible under the Company's Refund Policy at the time of the request. Expired service periods are not eligible for refunds.
 
+Where a subscription has been purchased in part payments (installments), the refund is calculated only on the last installment received from the client. Installments paid earlier are not refundable, as the service period purchased by them has already been availed. The refund request period is also counted from the payment date of that last installment, and the applicable calculation method (Pro-rata or Fixed Percentage, whichever is active at that time) is applied to that installment's base amount only.
+
 The **Refund Request** button is available in the **Client Panel → Payments** section. Only eligible clients will be able to submit a refund request. Submission of a refund request does not guarantee approval.
 
 ### Refund Calculation Example
 
-**Assume the client paid ₹15,148.50**
+**Assume the client paid ₹15,147.31**
 
-- **Total Paid by Client:** ₹15,148.50
-- **Base Subscription Amount:** ₹12,586.00
-- **Payment Gateway Charge:** ₹251.72 *(Non-refundable)*
-- **GST (18%):** ₹2,310.78 *(Non-refundable)*
+| Component | Amount | Refundable |
+| --- | --- | --- |
+| Total paid by client | ₹15,147.31 | — |
+| Base subscription amount | ₹12,585.00 | Refundable |
+| Payment gateway charge | ₹251.70 | Non-refundable |
+| GST (18%) | ₹2,310.61 | Non-refundable |
 
 ____
 
-### Example 1 – Pro-rata Refund
-
-**Monthly Plan (30 Days)**
+### Example 1 – Pro-rata Refund (Monthly Plan, 30 Days)
 
 - Used: **10 Days**
 - Unused: **20 Days**
 
 **Formula:** Refund = (Unused Days ÷ Total Days) × Base Subscription Amount
 
-**Calculation:** (20 ÷ 30) × ₹12,586.00 = **₹8,390.67**
+**Calculation:** (20 ÷ 30) × ₹12,585.00 = **₹8,390.00**
 
-**Illustrative Refund Amount:** **₹8,390.67**
+**Illustrative Refund Amount:** **₹8,390.00**
 
 *GST, Payment Gateway Charges, bank charges, taxes, and other applicable deductions are non-refundable.*
 
 ____
 
-### Example 2 – Fixed 50% Refund
+### Example 2 – Fixed Percentage Refund (Illustration: 25%)
 
-**Formula:** Refund = 50% × ₹12,586.00
+*The 25% used in this example is for illustration only and is not a fixed or guaranteed rate. If the Fixed Percentage method is active, the actual percentage will be as per the refund settings in effect at the time the refund request is submitted.*
 
-**Calculation:** 50% × ₹12,586.00 = **₹6,293.00**
+**Formula:** Refund = Applicable Fixed Percentage (e.g. 25%) × Base Subscription Amount
 
-**Illustrative Refund Amount:** **₹6,293.00**
+**Calculation:** 25% × ₹12,585.00 = **₹3,146.25**
+
+**Illustrative Refund Amount:** **₹3,146.25**
+
+*GST, Payment Gateway Charges, bank charges, taxes, and other applicable deductions are non-refundable.*
+
+____
+
+### Example 3 – Part Payment (Installment) Refund
+
+Monthly Plan of ₹12,585.00 purchased in 2 parts — Part 1: ₹6,293.00 | Part 2: ₹6,292.00
+
+- Day 1: Part 1 paid (Base ₹6,293.00)
+- Day 10: Part 2 paid (Base ₹6,292.00)
+- Day 11: Refund requested — eligible, as the refund request period is counted from the payment date of Part 2
+
+**Refundable Base Amount:** ₹6,292.00 (Part 2 only — Part 1 is not refundable, its service period has already been availed)
+
+**Pro-rata Method:** Part 2 covers Day 10 to Day 30 = 20 Days | Used: 1 Day | Unused: 19 Days
+
+**Calculation:** (19 ÷ 20) × ₹6,292.00 = **₹5,977.40**
+
+**Fixed Percentage Method (Illustration: 25%):** 25% × ₹6,292.00 = **₹1,573.00**
+
+**Illustrative Refund Amount:** **₹5,977.40 (Pro-rata) or ₹1,573.00 (Fixed Percentage, illustrated at 25%), as per the method and percentage active at that time**
 
 *GST, Payment Gateway Charges, bank charges, taxes, and other applicable deductions are non-refundable.*
 
