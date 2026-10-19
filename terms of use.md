@@ -115,6 +115,8 @@ ____
 
 The refund calculations and examples below are **for illustration purposes only** and are provided solely to explain how the refund calculation works. They do **not** guarantee that the same refund amount will be approved.
 
+**The examples, amounts, and percentages shown on this page (including the 25% Fixed Percentage figure) are sample values given only for explanation. They are not the actual refund rate or amount applicable to your subscription. The actual refund calculation method, the actual percentage, and the actual refundable amount applicable to you will be shown only in the Company's software, i.e. in the Client Panel → Payments section, at the time you submit the refund request. In case of any difference between the examples on this page and the amount shown in the software, the amount shown in the software will apply.**
+
 The actual refund amount, if any, will be determined **only** according to the Company's Refund Policy, the refund settings active at the time the refund request is submitted, the applicable subscription plan, the selected refund calculation method (Pro-rata or Fixed Percentage), and the client's eligibility. The Company reserves the sole right to approve, reject, or modify any refund request after verification.
 
 Refund requests can be submitted only while the eligible subscription/service is active and within the applicable refund request period. Once the eligible subscription or service has expired, no refund request will be accepted or processed for that subscription, regardless of the payment date or payment method.
@@ -155,7 +157,7 @@ ____
 
 ### Example 2 – Fixed Percentage Refund (Illustration: 25%)
 
-*The 25% used in this example is for illustration only and is not a fixed or guaranteed rate. If the Fixed Percentage method is active, the actual percentage will be as per the refund settings in effect at the time the refund request is submitted.*
+*The 25% used in this example is for illustration only and is not a fixed or guaranteed rate. If the Fixed Percentage method is active, the actual percentage will be as per the refund settings in effect at the time the refund request is submitted, and that actual percentage and refundable amount will be displayed to you in the software (Client Panel → Payments) before you submit the request.*
 
 **Formula:** Refund = Applicable Fixed Percentage (e.g. 25%) × Base Subscription Amount
 
@@ -201,7 +203,7 @@ ____
 
 ### Disclaimer
 
-The examples above are provided for demonstration only. The actual refund amount may be higher, lower, or zero depending on the Company's Refund Policy, applicable deductions, subscription status, refund eligibility, and the settings in effect when the refund request is submitted. The Company's decision regarding refund eligibility and the final refundable amount shall be final and binding.
+The examples above are provided for demonstration only and do not represent the actual refund applicable to any client. The actual refund method, percentage, and amount are calculated and displayed only in the Company's software (Client Panel → Payments). The actual refund amount may be higher, lower, or zero depending on the Company's Refund Policy, applicable deductions, subscription status, refund eligibility, and the settings in effect when the refund request is submitted. The Company's decision regarding refund eligibility and the final refundable amount shall be final and binding.
 
 Limited User License
 
