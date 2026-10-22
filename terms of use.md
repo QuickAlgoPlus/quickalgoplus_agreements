@@ -51,6 +51,70 @@ QUICK ALGOPLUS PRIVATE LIMITED does not warrant or endorse third-party websites,
 
 QUICK ALGOPLUS PRIVATE LIMITED is not responsible for accuracy, quality, or reliability of any third-party information, products, or services linked or accessed via its platform.
 
+## SEBI Mandatory Terms and Conditions for Research Analyst Services (Annexure B)
+
+**Source: SEBI Master Circular for Research Analysts dated 06 February 2026 (Ref. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026), Annexure B – Minimum mandatory terms and conditions to be disclosed to clients, pages 57–59, read with para 1.12 (Disclosure of terms and conditions to the client), pages 16–17.** The SEBI circular PDF is available at quickalgoplus.in/docs/sebi-master-circular-research-analysts-06feb2026.pdf.
+
+**Important (para 1.12(b), page 16):** "RA or research entity shall ensure that neither any research service is rendered nor any fee is charged until consent is received from the client on the terms and conditions." Accordingly, QUICK ALGOPLUS PRIVATE LIMITED obtains the client's consent to these terms, the MITC below and the Investor Charter before any Research Analyst service starts or any fee is collected.
+
+### 1. Obligations on RA (Annexure B, clause 2)
+
+RA and client shall be bound by SEBI Act and all the applicable rules and regulations of SEBI, including the RA Regulations and relevant notifications of Government, as may be in force, from time to time.
+
+### 2. Client Information and KYC (Annexure B, clause 3)
+
+The client shall furnish all such details in full as may be required by the RA in its standard form with supporting details, if required, as may be made mandatory by RAASB/SEBI from time to time. RA shall collect, store, upload and check KYC records of the clients with KYC Registration Agency (KRA) as specified by SEBI from time to time.
+
+### 3. Standard Terms of Service – Client Consent (Annexure B, clause 4)
+
+The consent of the client is taken on the following understanding, in SEBI's words:
+
+"I / We have read and understood the terms and conditions applicable to a research analyst as defined under regulation 2(1)(u) of the SEBI (Research Analyst) Regulations, 2014, including the fee structure. I/We are subscribing to the research services for our own benefits and consumption, and any reliance placed on the research report provided by research analyst shall be as per our own judgement and assessment of the conclusions contained in the research report. I/We understand that – i. Any investment made based on the recommendations in the research report are subject to market risk. ii. Recommendations in the research report do not provide any assurance of returns. iii. There is no recourse to claim any losses incurred on the investments made based on the recommendations in the research report."
+
+### 4. Declaration of the Research Analyst (Annexure B, clause 4)
+
+QUICK ALGOPLUS PRIVATE LIMITED declares that:
+
+- It is duly registered with SEBI as a Research Analyst pursuant to the SEBI (Research Analysts) Regulations, 2014 and its registration details are: SEBI Registration Number INH000028875, Certificate No. 2053, dated 16 July 2026; enlisted with BSE Ltd. (RAASB) vide Enlistment No. 7361 dated 16 July 2026.
+- It has registration and qualifications required to render the services contemplated under the RA Regulations, and the same are valid and subsisting.
+- Research analyst services provided by it do not conflict with or violate any provision of law, rule or regulation, contract, or other instrument to which it is a party or to which any of its property is or may be subject.
+- The maximum fee that may be charged by RA is ₹1.51 lakhs per annum per family of client (applicable to individual and HUF clients).
+- The recommendations provided by RA do not provide any assurance of returns.
+
+### 5. Consideration and Mode of Payment (Annexure B, clause 5)
+
+The client shall duly pay to RA the agreed fees for the services that RA renders to the client and statutory charges, as applicable. Such fees and statutory charges shall be payable through the specified manner and mode(s)/mechanism(s): cheque, online bank transfer, UPI, net banking, credit/debit card through the payment gateway, or optionally through the Centralized Fee Collection Mechanism (CeFCoM) of BSE Limited (RAASB). Cash payment is not allowed.
+
+### 6. Risk Factors (Annexure B, clause 6)
+
+Investment in securities market is subject to market risks. Read all the related documents carefully before investing. Futures, options and algorithmic trading carry substantial risk of loss, including loss exceeding the capital deployed; prices may move rapidly and against the position; liquidity may be insufficient to exit; technology, connectivity and broker-API failures may prevent or delay orders; past performance of any strategy is not indicative of future results. The complete statement is in our Risk Disclosure (quickalgoplus.in/risk-disclosure).
+
+### 7. Conflict of Interest (Annexure B, clause 7)
+
+The RA shall adhere to the applicable regulations/circulars/directions specified by SEBI from time to time in relation to disclosure and mitigation of any actual or potential conflict of interest. QUICK ALGOPLUS PRIVATE LIMITED, its directors and research staff disclose in each research report any financial interest or holding in the subject securities, any compensation received from the subject company, and any other material conflict, as required under Regulation 19 of the RA Regulations.
+
+### 8. Termination of Service and Refund of Fees (Annexure B, clause 8)
+
+The RA may suspend or terminate rendering of research services to the client on account of suspension/cancellation of registration of RA by SEBI and shall refund the residual amount to the client. In case of suspension of certificate of registration of the RA for more than 60 (sixty) days or cancellation of the RA registration, RA shall refund the fees, on a pro rata basis for the period from the effective date of cancellation/suspension to end of the subscription period. Pre-mature termination refunds are governed by para 1.9(g) as set out in the Refund Policy section below.
+
+### 9. Grievance Redressal and Dispute Resolution (Annexure B, clause 9)
+
+Any grievance related to (i) non-receipt of research report or (ii) missing pages or inability to download the entire report, or (iii) any other deficiency in the research services provided by RA, shall be escalated promptly by the client to the person designated by RA in this behalf: Rahul Singh, Compliance Officer, email info@quickalgoplus.in, phone +91 83570 00107, TT Nagar, Pipliya Kumar, DDU Nagar, Indore, Madhya Pradesh – 452010. The RA shall be responsible to resolve grievances within 7 (seven) business working days or such timelines as may be specified by SEBI under the RA Regulations. RA shall redress grievances of the client in a timely and transparent manner. Any dispute between the RA and his client may be resolved through arbitration or through any other modes or mechanism as specified by SEBI from time to time, including SEBI SCORES (www.scores.sebi.gov.in) and the Smart ODR portal (https://smartodr.in).
+
+### 10. Additional Clauses (Annexure B, clause 10)
+
+All additional voluntary clauses added by the RA shall not be in contravention with rules/regulations/circulars of SEBI. Any changes in such voluntary clauses/document(s) shall be preceded by a notice of 15 days.
+
+### 11. Mandatory Notice – Do's and Don'ts (Annexure B, clause 11)
+
+Clients are requested to go through the Do's and Don'ts while dealing with a Research Analyst as specified in SEBI master circular no. SEBI/HO/MIRSD-POD-1/P/CIR/2024/49 dated May 21, 2024 (now carried in the Investor Charter, Annexure D of the Master Circular dated 06 February 2026, pages 71–72). The Do's and Don'ts are published on our Investor Charter page (quickalgoplus.in/investor-charter).
+
+### 12. Disclosure on Use of Artificial Intelligence (AI) Tools
+
+**Source: SEBI Master Circular for Research Analysts dated 06 February 2026 (Ref. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026), para 1.7, page 12, read with Regulation 19(vii) and Regulation 24(7) of the RA Regulations.** SEBI requires a Research Analyst to disclose to the client the extent of use of Artificial Intelligence tools in providing research services, at the time of disclosing the terms and conditions.
+
+Disclosure by QUICK ALGOPLUS PRIVATE LIMITED: research recommendations and the strategies offered on the QuickAlgo+ platform are generated by rule-based technical-indicator logic (for example EMA, MACD, Supertrend, ADX, VWAP conditions) defined and reviewed by our research team; they are not generated by generative artificial intelligence tools. Where any software tool with AI features is used for internal productivity (such as document drafting or data formatting), such tool does not form the basis of any recommendation. QUICK ALGOPLUS PRIVATE LIMITED remains solely responsible for the security, confidentiality and integrity of client data and for its research services, and will make an additional disclosure to clients if the extent of use of AI tools changes.
+
 ## SEBI Most Important Terms and Conditions (MITC) – Research Analyst Services
 
 **Source: SEBI Master Circular for Research Analysts dated 06 February 2026 (Ref. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026), Annexure – Most Important Terms and Conditions, pages 60–61. Originally issued vide SEBI Circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/20 dated 17 February 2025. The text below is reproduced verbatim from the SEBI circular.** The SEBI circular PDF is available on this website at: quickalgoplus.in/docs/sebi-master-circular-research-analysts-06feb2026.pdf (also linked in the footer under Regulatory Resources).

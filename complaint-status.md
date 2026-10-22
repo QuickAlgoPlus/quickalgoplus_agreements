@@ -19,6 +19,9 @@
 # opening_pending = financial year shuru hote waqt kitni complaint pending thi (aam taur pe 0)
 opening_pending | 0
 
+# impersonation_complaints = is mahine kitni complaint kisi aur ke dwara company ke naam ka galat istemal (impersonation) ki wajah se aayi (SEBI Annexure E)
+impersonation_complaints | 0
+
 # ---- Month | received | resolved ----
 April 2026 | 0 | 0
 May 2026 | 0 | 0
