@@ -19,7 +19,7 @@ All necessary information required by an investor before subscribing to any serv
 
 NO RECOURSE FOR TRADING LOSSES (SEBI MITC CLAUSE viii)
 
-Source: SEBI Master Circular for Research Analysts dated 06 February 2026, Most Important Terms and Conditions, clause (viii), page 61.
+Source: SEBI Master Circular for Research Analysts dated 06 February 2026 (Ref. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026; MITC originally issued vide SEBI Circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/20 dated 17 February 2025), Most Important Terms and Conditions, clause (viii), page 61. The circular PDF is available on this website at quickalgoplus.in/docs/sebi-master-circular-research-analysts-06feb2026.pdf and in the footer under Regulatory Resources.
 
 "Any investment made based on recommendations in research reports are subject to market risks, and recommendations do not provide any assurance of returns. There is no recourse to claim any losses incurred on the investments made based on the recommendations in the research report. Any reliance placed on the research report provided by the RA shall be as per the client's own judgement and assessment of the conclusions contained in the research report."
 
