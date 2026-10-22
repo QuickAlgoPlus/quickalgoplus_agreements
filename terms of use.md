@@ -53,7 +53,7 @@ QUICK ALGOPLUS PRIVATE LIMITED is not responsible for accuracy, quality, or reli
 
 ## SEBI Most Important Terms and Conditions (MITC) – Research Analyst Services
 
-**Source: SEBI Master Circular for Research Analysts dated 06 February 2026 (Ref. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026), Annexure – Most Important Terms and Conditions, pages 60–61. Originally issued vide SEBI Circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/20 dated 17 February 2025. The text below is reproduced verbatim from the SEBI circular.** [View the SEBI circular (PDF)](/docs/sebi-master-circular-research-analysts-06feb2026.pdf)
+**Source: SEBI Master Circular for Research Analysts dated 06 February 2026 (Ref. HO/38/12/11(1)2026-MIRSD-POD/I/4360/2026), Annexure – Most Important Terms and Conditions, pages 60–61. Originally issued vide SEBI Circular SEBI/HO/MIRSD/MIRSD-PoD/P/CIR/2025/20 dated 17 February 2025. The text below is reproduced verbatim from the SEBI circular.** The SEBI circular PDF is available on this website at: quickalgoplus.in/docs/sebi-master-circular-research-analysts-06feb2026.pdf (also linked in the footer under Regulatory Resources).
 
 QUICK ALGOPLUS PRIVATE LIMITED is registered with SEBI as a Research Analyst (Registration No. INH000028875). Every client of our Research Analyst services is provided these Most Important Terms and Conditions (MITC) and consents to them before availing the services.
 
@@ -157,7 +157,7 @@ ____
 
 ### SEBI Fee Refund Rule for Individual and HUF Clients
 
-**Source: SEBI Master Circular for Research Analysts dated 06 February 2026, paragraph 1.9 (Fees chargeable to clients by RAs), pages 13–14, and MITC clause (iii), page 60.** [View the SEBI circular (PDF)](/docs/sebi-master-circular-research-analysts-06feb2026.pdf)
+**Source: SEBI Master Circular for Research Analysts dated 06 February 2026, paragraph 1.9 (Fees chargeable to clients by RAs), pages 13–14, and MITC clause (iii), page 60.** The SEBI circular PDF is available on this website at: quickalgoplus.in/docs/sebi-master-circular-research-analysts-06feb2026.pdf (also linked in the footer under Regulatory Resources).
 
 Para 1.9(b): "RAs shall charge a maximum of ₹1,51,000 per annum per family in case of their clients who are individuals and Hindu Undivided Family (HUF)."
 
