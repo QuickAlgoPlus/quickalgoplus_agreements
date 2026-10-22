@@ -15,3 +15,12 @@ There is no assurance or guarantee that the objectives of any strategy, model, o
 The value of investments may rise or fall depending on market conditions and external factors impacting the securities markets. QUICK ALGOPLUS PRIVATE LIMITED or its associates shall not be liable or responsible for any loss, damage, or shortfall arising from market conditions or the operations of any strategies, models, or advice provided.
 
 All necessary information required by an investor before subscribing to any service is disclosed in the relevant agreement. The investor is advised to carefully read all terms and conditions before subscribing and shall not hold QUICK ALGOPLUS PRIVATE LIMITED or its associates/employees liable for any risks or losses arising from strategies, models, or services launched or provided from time to time.
+
+
+NO RECOURSE FOR TRADING LOSSES (SEBI MITC CLAUSE viii)
+
+Source: SEBI Master Circular for Research Analysts dated 06 February 2026, Most Important Terms and Conditions, clause (viii), page 61.
+
+"Any investment made based on recommendations in research reports are subject to market risks, and recommendations do not provide any assurance of returns. There is no recourse to claim any losses incurred on the investments made based on the recommendations in the research report. Any reliance placed on the research report provided by the RA shall be as per the client's own judgement and assessment of the conclusions contained in the research report."
+
+Trading losses are therefore not refundable, reimbursable or compensable by QUICK ALGOPLUS PRIVATE LIMITED. Subscription fees are charged for research / software services only. Refund of subscription fees, where applicable, is governed solely by the Refund Policy and SEBI's fee rules (Master Circular para 1.9(g): proportionate refund for the unexpired period, no breakage fee, for individual and HUF clients).
