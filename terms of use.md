@@ -85,15 +85,15 @@ xii. The RA shall never ask for the client's login credentials and OTPs for the 
 
 **Source: SEBI Master Circular for Research Analysts dated 06 February 2026, MITC clause (viii), page 61, and the mandatory research report disclaimer, page 57.**
 
-1. Trading or investment decisions are taken by the client in the client's own trading account. QUICK ALGOPLUS PRIVATE LIMITED does not execute any trade on behalf of the client (MITC clause i).
+- Trading or investment decisions are taken by the client in the client's own trading account. QUICK ALGOPLUS PRIVATE LIMITED does not execute any trade on behalf of the client (MITC clause i).
 
-2. In the words of SEBI (MITC clause viii): "Any investment made based on recommendations in research reports are subject to market risks, and recommendations do not provide any assurance of returns. There is no recourse to claim any losses incurred on the investments made based on the recommendations in the research report."
+- In the words of SEBI (MITC clause viii): "Any investment made based on recommendations in research reports are subject to market risks, and recommendations do not provide any assurance of returns. There is no recourse to claim any losses incurred on the investments made based on the recommendations in the research report."
 
-3. Accordingly, **no trading loss, notional loss, opportunity loss or shortfall suffered by a client in the securities market is refundable, reimbursable or compensable by QUICK ALGOPLUS PRIVATE LIMITED**, whether the loss arose from a research recommendation, a strategy, a signal, the platform, a broker API, a market event, or any other cause. A request for refund of trading losses will not be entertained.
+- Accordingly, **no trading loss, notional loss, opportunity loss or shortfall suffered by a client in the securities market is refundable, reimbursable or compensable by QUICK ALGOPLUS PRIVATE LIMITED**, whether the loss arose from a research recommendation, a strategy, a signal, the platform, a broker API, a market event, or any other cause. A request for refund of trading losses will not be entertained.
 
-4. Subscription fees are charged only for research / software services and never for trading outcomes. No scheme of assured, guaranteed or fixed returns is offered (MITC clause vi).
+- Subscription fees are charged only for research / software services and never for trading outcomes. No scheme of assured, guaranteed or fixed returns is offered (MITC clause vi).
 
-5. The only refund a client may seek is the refund of **subscription fees** as per the Refund Policy below and SEBI's fee rules; such refund is never linked to profit or loss in trading.
+- The only refund a client may seek is the refund of **subscription fees** as per the Refund Policy below and SEBI's fee rules; such refund is never linked to profit or loss in trading.
 
 SERVICE AGREEMENT
 
@@ -169,15 +169,15 @@ Para 1.9(d): these fee-related provisions (fee limit, modes of payment, refund o
 
 **How QUICK ALGOPLUS PRIVATE LIMITED applies this:**
 
-1. **Individual and HUF clients (not accredited investors):** on pre-mature termination of Research Analyst services by either side, the refund of subscription fees is calculated **only on a proportionate (pro-rata) basis for the unexpired period** of the subscription. **No breakage fee, cancellation charge or deduction from the fee is applied.** The Fixed Percentage method described below does not apply to such clients.
+- **Individual and HUF clients (not accredited investors):** on pre-mature termination of Research Analyst services by either side, the refund of subscription fees is calculated **only on a proportionate (pro-rata) basis for the unexpired period** of the subscription. **No breakage fee, cancellation charge or deduction from the fee is applied.** The Fixed Percentage method described below does not apply to such clients.
 
-2. **Non-individual clients (companies, LLPs, partnerships) and accredited investors:** refund terms are as agreed in the client's contract, which may follow the Pro-rata or the Fixed Percentage method described below.
+- **Non-individual clients (companies, LLPs, partnerships) and accredited investors:** refund terms are as agreed in the client's contract, which may follow the Pro-rata or the Fixed Percentage method described below.
 
-3. **Statutory and third-party charges** such as GST and payment gateway charges are not part of the Research Analyst fee (para 1.9(c): "The fee limit does not include statutory charges") and are not refundable by the Company.
+- **Statutory and third-party charges** such as GST and payment gateway charges are not part of the Research Analyst fee (para 1.9(c): "The fee limit does not include statutory charges") and are not refundable by the Company.
 
-4. **Trading losses are never refundable** under any method. See "Trading Losses – No Refund and No Recourse" above (MITC clause viii).
+- **Trading losses are never refundable** under any method. See "Trading Losses – No Refund and No Recourse" above (MITC clause viii).
 
-5. If SEBI suspends the Company's Research Analyst registration for more than 60 days or cancels it, fees are refunded on a pro-rata basis for the period from the effective date of suspension/cancellation to the end of the subscription period (Master Circular, page 59).
+- If SEBI suspends the Company's Research Analyst registration for more than 60 days or cancels it, fees are refunded on a pro-rata basis for the period from the effective date of suspension/cancellation to the end of the subscription period (Master Circular, page 59).
 
 ### Important Note
 
